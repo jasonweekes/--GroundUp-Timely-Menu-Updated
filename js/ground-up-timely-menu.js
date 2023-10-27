@@ -7,7 +7,7 @@ const menuLink = document.createElement('a');
 menuLink.className='button';
 //output the a-tag to the div
 currentMenuDiv.appendChild(menuLink);
-
+//-test
 // instantiate the Date class:
 const dt = new Date();
 let hr = dt.getHours();
